@@ -1,3 +1,4 @@
+#AI ML Lab assignment by Gudivada Haripriya (12140720) Dhruv Gupta (12140580)
 # Bird Sound Classifier
 
 A simple Android app that detects bird sounds using TensorFlow Lite.
